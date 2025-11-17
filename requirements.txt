@@ -1,0 +1,5 @@
+opencv-python
+pygame
+numpy
+playsound
+twilio(optional)-->can use email instead
