@@ -22,7 +22,7 @@ This project demonstrates a real-time fire detection system using Python, OpenCV
 
 # Real-Time Fire Detection Without Using Sensors
 
-**A mini-project developed to detect fires using computer vision without relying on traditional sensors.**
+**This project developed to detect fires using computer vision without relying on traditional sensors.**
 
 ## Overview
 This project demonstrates a real-time fire detection system using Python, OpenCV, and machine learning techniques. It replaces sensor-based systems with a vision-based algorithm, making fire detection more cost-effective, robust, and accurate.
@@ -72,3 +72,4 @@ Feel free to fork this repository and submit pull requests for enhancements or b
 
 ## Contribution
 Feel free to fork this repository and submit pull requests for enhancements or bug fixes.
+Contact: https://www.linkedin.com/in/deepikamallupally/
