@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 # ================== EMAIL SETTINGS ==================
 sender_email = "ayesha.h33n4@gmail.com"
 sender_password = "lwfi wwcs obfi fbyl"
-receiver_email = "deepikamallupally@gmail.com"
+receiver_email = "heena.begum.1781@gmail.com"
 
 # ================== INIT ==================
 pygame.init()
