@@ -1,5 +1,3 @@
-Here's an updated **README.md** that matches your latest code, including location links, skin-color removal, timestamped email alerts, and improved fire detection logic.
-
 # Real-Time Fire Detection and Alert System Without Using Sensors
 
 A computer vision-based fire detection system that monitors live video from a webcam, detects fire using image processing techniques, plays an alarm, and sends email alerts with location information — all without using traditional fire sensors.
