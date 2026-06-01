@@ -1,4 +1,4 @@
-# Real-Time Fire Detection and Alert System Without Using Sensors
+# Localization-using-surveillance-camera
 
 A computer vision-based fire detection system that monitors live video from a webcam, detects fire using image processing techniques, plays an alarm, and sends email alerts with location information — all without using traditional fire sensors.
 
